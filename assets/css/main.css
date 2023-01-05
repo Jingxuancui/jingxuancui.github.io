@@ -1770,9 +1770,9 @@ input, select, textarea {
 			width: 100%;
 		}
 
-		.image.fit80 {
+		.image.fit70 {
 			display: block;
-			width: 80%;
+			width: 70%;
 			margin: 0 auto;
 		}
 
