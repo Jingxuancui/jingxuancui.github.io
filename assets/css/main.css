@@ -1763,7 +1763,8 @@ input, select, textarea {
 		.image.avatar144 {
 			width: 144px;
 			height: 144px;
-			margin: 0 0 2em 4em;
+			margin-right: 0;
+			margin-left: 40%;
 		}
 
 			.image.avatar48 img {
