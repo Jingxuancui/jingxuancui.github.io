@@ -1760,6 +1760,12 @@ input, select, textarea {
 			background: #f00;
 		}
 
+		.image.avatar144 {
+			width: 144px;
+			height: 144px;
+			margin: 0 2em 2em 4em;
+		}
+
 			.image.avatar48 img {
 				width: 48px;
 				height: 48px;
