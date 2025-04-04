@@ -1751,7 +1751,13 @@ input, select, textarea {
 
 		.image img {
 			display: block;
+			width: 100%;
+		}
+
+		.image.avatar70 {
+			display: block;
 			width: 70%;
+			margin-bottom: 1em;
 		}
 
 		.image.avatar48 {
