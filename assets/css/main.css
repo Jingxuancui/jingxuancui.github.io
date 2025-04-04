@@ -1751,7 +1751,7 @@ input, select, textarea {
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 70%;
 		}
 
 		.image.avatar48 {
@@ -2125,8 +2125,11 @@ input, select, textarea {
 		}
 
 		#logo .image {
-			position: absolute;
+			/* position: absolute;
 			left: 0;
+			top: 0; */
+			position: relative;
+			left: 30%;
 			top: 0;
 		}
 
